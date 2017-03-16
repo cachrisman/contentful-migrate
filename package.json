@@ -1,0 +1,14 @@
+{
+  "name": "contentful-migrate",
+  "version": "1.0.0",
+  "description": "A tool to manage Contentful content model migrations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charlie Chrisman <charlie@contentful.com>",
+  "license": "ISC",
+  "dependencies": {
+    "migrate": "^0.2.3"
+  }
+}
